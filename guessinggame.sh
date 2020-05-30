@@ -11,7 +11,7 @@ while [[ $n -ne $number_files ]]
 do
 if [[ $n -eq $number_files  ]]
 then
-	echo "You has entered the correct number =$n"
+	echo "You has entered the correct number = $n"
 else
 	echo "Incorrect, please print another number"
 	read n
