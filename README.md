@@ -1,5 +1,5 @@
 guessinggame
-sáb 30 may 2020 14:49:18 -05
+sáb 30 may 2020 18:32:58 -05
 Number of lines:
-21
+29
 [page project](https://alnarvaezva.github.io/guessinggame/)
